@@ -14,10 +14,10 @@
 
 <!-- 🔹 💻 **Aspiring AI Engineer | Passionate About ML & AI**  -->
 🔹 💻 **Passionate About ML & AI**  
-🔹 🖋️ I love sharing my knowledge! Read my latest insights on **[My Blog](https://musmancs.blogspot.com)**.  
+🔹 🖋️ I love sharing my knowledge! Read my latest insights on **[My Blog](https://musmancs.blogspot.com)**.  <br>
 🔹 📄 Curious about my journey? Check out my **[Resume]http://127.0.0.1:5500/cv.html 
 🔹 🌐 Explore my work and projects on my http://127.0.0.1:5500/cv.html 
-🔹 🌐 Whatsapp: +923320606508  
+🔹 🌐 Whatsapp: +923026185263 
 
 ---
 
