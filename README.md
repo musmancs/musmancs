@@ -55,8 +55,8 @@
 </div>
 <div  align="center">
  
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=musmancs&repo=Lexa-AI-Assistant&show_icons=true&theme=great-gatsby" > 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=musmancs&repo=Traffic-Managment-System&show_icons=true&theme=great-gatsby" >
+  <img src="https://github.com/musmancs/PF-Project/blob/main/PF%20Lab%20Project%201%20usman.cpp" > 
+  <img src="https://github.com/musmancs/AICT-LAB-PROJECT-1st-SEMESTER/blob/main/index.html" >
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=musmancs&repo=File-Encryption-Decryption&show_icons=true&theme=great-gatsby" > 
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=musmancs&repo=E-Commerce-Customer-Categorization-and-Analyzer&show_icons=true&theme=great-gatsby" > 
   
@@ -82,7 +82,7 @@
 <img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=https://github.com/musmancs style="margin-right: 20px;" />
 </a>
 
-<a href="https://www.instagram.com/musmancs/" target="_blank">
+<a href="https://www.instagram.com/u.k_niaxii/" target="_blank">
 <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=https://www.instagram.com/musmancs style="margin-right: 20px;" />
 </a>         
 </div>  
