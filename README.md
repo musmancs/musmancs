@@ -2,7 +2,7 @@
   Hi there 
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  
   , I'm 
-  <a href="https://www.linkedin.com/in/JawadAhmadCS" style="color:#0077b5; text-decoration: none;">Jawad</a>
+  <a href="https://www.linkedin.com/in/musmancs" style="color:#0077b5; text-decoration: none;">Jawad</a>
 </h1>
 
 
@@ -14,9 +14,9 @@
 
 <!-- 🔹 💻 **Aspiring AI Engineer | Passionate About ML & AI**  -->
 🔹 💻 **Passionate About ML & AI**  
-🔹 🖋️ I love sharing my knowledge! Read my latest insights on **[My Blog](https://jawadahmadcs.blogspot.com)**.  
+🔹 🖋️ I love sharing my knowledge! Read my latest insights on **[My Blog](https://musmancs.blogspot.com)**.  
 🔹 📄 Curious about my journey? Check out my **[Resume](https://github.com/user-attachments/assets/69c0e059-60da-47b2-a9d6-f0eb043baf5a)**.  
-🔹 🌐 Explore my work and projects on my **[Portfolio](https://jawadahmadcs.vercel.app/)**.  
+🔹 🌐 Explore my work and projects on my **[Portfolio](https://musmancs.vercel.app/)**.  
 🔹 🌐 Whatsapp: +923320606508  
 
 ---
@@ -39,15 +39,15 @@
 
 <div align="center">
 
-<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jawadahmadcs&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&cache_seconds=3600)
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=musmancs&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&cache_seconds=3600)
 </div>-->
 
 
-|<img src="https://github-readme-stats.vercel.app/api?username=jawadahmadcs&&show_icons=true&count_private=true&include_all_commits=true&&theme=tokyonight"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=jawadahmadcs&count_private=true&include_all_commits=true&&theme=tokyonight"/>|
+|<img src="https://github-readme-stats.vercel.app/api?username=musmancs&&show_icons=true&count_private=true&include_all_commits=true&&theme=tokyonight"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=musmancs&count_private=true&include_all_commits=true&&theme=tokyonight"/>|
 |---|---| 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jawadahmadcs&layout=compact&theme=midnight-purple)](https://github.com/jawadahmadcs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=musmancs&layout=compact&theme=midnight-purple)](https://github.com/musmancs)
 </div>
 <div align="center">
 
@@ -55,10 +55,10 @@
 </div>
 <div  align="center">
  
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jawadahmadcs&repo=Lexa-AI-Assistant&show_icons=true&theme=great-gatsby" > 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jawadahmadcs&repo=Traffic-Managment-System&show_icons=true&theme=great-gatsby" >
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jawadahmadcs&repo=File-Encryption-Decryption&show_icons=true&theme=great-gatsby" > 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jawadahmadcs&repo=E-Commerce-Customer-Categorization-and-Analyzer&show_icons=true&theme=great-gatsby" > 
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=musmancs&repo=Lexa-AI-Assistant&show_icons=true&theme=great-gatsby" > 
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=musmancs&repo=Traffic-Managment-System&show_icons=true&theme=great-gatsby" >
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=musmancs&repo=File-Encryption-Decryption&show_icons=true&theme=great-gatsby" > 
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=musmancs&repo=E-Commerce-Customer-Categorization-and-Analyzer&show_icons=true&theme=great-gatsby" > 
   
   
 </di>
@@ -67,23 +67,23 @@
 
 ### 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=jawadahmadcs&theme=algolia&row=1&margin-w=15)
+![Trophies](https://github-profile-trophy.vercel.app/?username=musmancs&theme=algolia&row=1&margin-w=15)
 
 ---
 
 ### Let's Connect <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="32px">
 
 <div style="display:flex; justify-content:center;margin-bottom:10px">
- <a href="https://www.linkedin.com/in/jawadahmadcs/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=https://www.linkedin.com/in/jawadahmadcs style="margin-right: 20px;" />
+ <a href="https://www.linkedin.com/in/musmancs/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=https://www.linkedin.com/in/musmancs style="margin-right: 20px;" />
 </a>
  
- <a href="https://github.com/jawadahmadcs" target="_blank">
-<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=https://github.com/jawadahmadcs style="margin-right: 20px;" />
+ <a href="https://github.com/musmancs" target="_blank">
+<img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white alt=https://github.com/musmancs style="margin-right: 20px;" />
 </a>
 
-<a href="https://www.instagram.com/jawadahmadcs/" target="_blank">
-<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=https://www.instagram.com/jawadahmadcs style="margin-right: 20px;" />
+<a href="https://www.instagram.com/musmancs/" target="_blank">
+<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=https://www.instagram.com/musmancs style="margin-right: 20px;" />
 </a>         
 </div>  
 
@@ -92,7 +92,7 @@
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=jawadahmadcs&label=Profile%20views&color=0e75b6&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=musmancs&label=Profile%20views&color=0e75b6&style=flat)
 
 
-Leave a ⭐ [here](https://github.com/jawadahmadcs/jawadahmadcs) if you like 😁
+Leave a ⭐ [here](https://github.com/musmancs/musmancs) if you like 😁
