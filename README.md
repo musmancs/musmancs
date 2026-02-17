@@ -2,7 +2,7 @@
   Hi there 
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  
   , I'm 
-  <a href="https://www.linkedin.com/in/musmancs" style="color:#0077b5; text-decoration: none;">Jawad</a>
+  <a href="https://www.linkedin.com/in/musmancs" style="color:#0077b5; text-decoration: none;">Usman</a>
 </h1>
 
 
